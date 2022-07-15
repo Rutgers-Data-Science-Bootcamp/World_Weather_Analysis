@@ -3,7 +3,7 @@ config.py
 
 # Adding additional files.
 API_practice.ipynb
-Module6_random_numberas.ipynb
+Module 6_random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
